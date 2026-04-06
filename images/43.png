@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>69D330A74FBFB83139E8023A</RequestId>
+  <HostId>shipeihua.oss-cn-beijing.aliyuncs.com</HostId>
+  <Key>d/file/202506/d60ab54f3763bfe275aa957c3cad1f9b.png</Key>
+  <EC>0040-00000024</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0040-00000024</RecommendDoc>
+</Error>

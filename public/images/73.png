@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>69D330B76187653737770F6E</RequestId>
+  <HostId>mptc-mp-platform.oss-cn-beijing.aliyuncs.com</HostId>
+  <Key>q_70/images03/20201028/287d7b0d7c864b82abcdb6864a8388fe.png</Key>
+  <EC>0041-00000113</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0041-00000113</RecommendDoc>
+</Error>
