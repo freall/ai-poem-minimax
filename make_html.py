@@ -230,6 +230,8 @@ var POEMS = """ + poems_json + """;
 </body>
 </html>"""
 
+import os
+os.makedirs('./dist', exist_ok=True)
 with open('./dist/index.html', 'w', encoding='utf-8') as f:
     f.write(html)
 
